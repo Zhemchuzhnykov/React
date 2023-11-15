@@ -6,6 +6,13 @@ This project covered all the React essentials
 
 - Hooks
 - States
+- Fragments
+- Forwarding props with the rest and spread operators
+
+## Advanced Concepts Learned This Project
+
+- Best practices of making components reusable
+- Dynamically setting wrappers elements inside a component
 
 ## Concepts Repeated During This Project
 
