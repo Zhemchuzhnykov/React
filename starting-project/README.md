@@ -8,6 +8,7 @@ This project covered all the React essentials
 - States
 - Fragments
 - Forwarding props with the rest and spread operators
+- Default props
 
 ## Advanced Concepts Learned This Project
 
