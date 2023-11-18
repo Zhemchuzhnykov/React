@@ -1,3 +1,7 @@
 [submodule "animals-fun-facts"]
 	path = animals-fun-facts
 	url = https://github.com/Zhemchuzhnykov/animals-fun-facts
+
+[submodule "starting-project"]
+	path = astarting-project
+	url = https://github.com/Zhemchuzhnykov/starting-project
