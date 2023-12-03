@@ -4,3 +4,6 @@
 [submodule "starting-project"]
 	path = starting-project
 	url = https://github.com/Zhemchuzhnykov/starting-project
+[submodule "tic-tac-toe-game"]
+	path = tic-tac-toe-game
+	url = https://github.com/Zhemchuzhnykov/tic-tac-toe-game
