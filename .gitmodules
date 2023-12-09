@@ -7,3 +7,6 @@
 [submodule "tic-tac-toe-game"]
 	path = tic-tac-toe-game
 	url = https://github.com/Zhemchuzhnykov/tic-tac-toe-game
+[submodule "investment-calculator"]
+	path = investment-calculator
+	url = https://github.com/Zhemchuzhnykov/investment-calculator

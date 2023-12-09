@@ -21,3 +21,7 @@ A simple interactive application where you can select menu tabs that open up dif
 ### Tic-Tac-Toe Game
 
 A two-players game with logging the game turns, result announcement, ability to change players' names, and, of course, the interactive gaming board.
+
+### Investment Calculator
+
+The calculator that dynamically calculates investment values based on your input. A user can specify an initial investment value, annual additional investment, annual interest rate, and duration of the investment in years. The app outputs the table in which each row includes the year of the investment, total value of the investment, interest earned during this year, total interest earned, and total invested capital.
