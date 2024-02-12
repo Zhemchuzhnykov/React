@@ -10,3 +10,6 @@
 [submodule "investment-calculator"]
 	path = investment-calculator
 	url = https://github.com/Zhemchuzhnykov/investment-calculator
+[submodule "styling-demo-project-sign-in-form"]
+	path = styling-demo-project-sign-in-form
+	url = https://github.com/Zhemchuzhnykov/styling-demo-project-sign-in-form
