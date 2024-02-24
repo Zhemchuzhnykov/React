@@ -13,3 +13,6 @@
 [submodule "styling-demo-project-sign-in-form"]
 	path = styling-demo-project-sign-in-form
 	url = https://github.com/Zhemchuzhnykov/styling-demo-project-sign-in-form
+[submodule "investment-calculator-bug-fixing"]
+	path = investment-calculator-bug-fixing
+	url = https://github.com/Zhemchuzhnykov/investment-calculator-bug-fixing
